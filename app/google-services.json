@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470183322583",
+    "project_id": "asm-api-ae3fb",
+    "storage_bucket": "asm-api-ae3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470183322583:android:9fce5c60f1c6f6d4406192",
+        "android_client_info": {
+          "package_name": "com.hrap.app.asm_api_ph45671"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekgMtRPhv21bYxrWiZdJdX7LWGGogWtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
